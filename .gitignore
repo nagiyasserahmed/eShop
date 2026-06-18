@@ -1,0 +1,33 @@
+al Studio
+
+.vs/
+
+
+
+# Build output
+
+bin/
+
+obj/
+
+
+
+# User-specific files
+
+*.user
+
+*.suo
+
+
+
+# Rider/ReSharper
+
+_ReSharper*/
+
+*.DotSettings.user
+
+
+
+# Logs
+
+*.log
