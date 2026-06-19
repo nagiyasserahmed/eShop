@@ -1,6 +1,6 @@
-﻿using eShop.Application.Services;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using eShop.Application.DTOs;
+using eShop.Application.Interfaces;
 
 namespace eShop.API.Controllers
 {

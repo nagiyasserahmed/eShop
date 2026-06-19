@@ -1,5 +1,5 @@
 ﻿using eShop.Application.DTOs;
-using eShop.Application.Services;
+using eShop.Application.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
 namespace eShop.API.Controllers

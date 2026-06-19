@@ -1,9 +1,10 @@
 ﻿using eShop.Application.DTOs;
+using eShop.Application.Services;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace eShop.Application.Services
+namespace eShop.Application.Interfaces
 {
     public interface IOrderService
     {

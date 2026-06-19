@@ -1,7 +1,7 @@
 ﻿using eShop.Application.DTOs;
 using eShop.Domain.Models;
 
-namespace eShop.Application.Services
+namespace eShop.Application.Interfaces
 {
     public interface IProductsService
     {

@@ -1,4 +1,5 @@
-﻿using eShop.Application.Services;
+﻿using eShop.Application.Interfaces;
+using eShop.Application.Services;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace eShop.Application

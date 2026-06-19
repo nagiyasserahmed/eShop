@@ -13,7 +13,6 @@ namespace eShop.Infrastructure.Messaging.Consumers
         public async Task Consume(
             ConsumeContext<StockReservedEvent> context)
         {
-            Console.WriteLine("Payment Completed");
         }
     }
 }

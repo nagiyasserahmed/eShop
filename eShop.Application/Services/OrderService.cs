@@ -1,6 +1,5 @@
 ﻿using eShop.Application.DTOs;
 using eShop.Application.Interfaces;
-using eShop.Domain.Models;
 using Microsoft.EntityFrameworkCore;
 using eShop.Domain.Events;
 

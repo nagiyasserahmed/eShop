@@ -1,9 +1,8 @@
-﻿using eShop.Application.Interfaces;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace eShop.Application.Services
+namespace eShop.Application.Interfaces
 {
     public class InventoryService(IMessageBus messageBus) : IInventoryService
     {
