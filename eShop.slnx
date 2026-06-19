@@ -1,7 +1,4 @@
 <Solution>
-  <Folder Name="/Solution Items/">
-    <File Path="docker-compose.yml" />
-  </Folder>
   <Folder Name="/src/">
     <Project Path="eShop.API/eShop.API.csproj" />
     <Project Path="eShop.Application/eShop.Application.csproj" Id="1b2cad6b-ef29-4374-8d47-427632cf86d8" />
